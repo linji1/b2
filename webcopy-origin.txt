@@ -1,0 +1,1256 @@
+Uri: http://b/
+File Name: C:\Downloaded Web Sites\b\index.htm
+Content Type: text/html
+
+Uri: http://b/1050.html
+File Name: C:\Downloaded Web Sites\b\1050.html
+Content Type: text/html
+
+Uri: http://b/258.html
+File Name: C:\Downloaded Web Sites\b\258.html
+Content Type: text/html
+
+Uri: http://b/259.html
+File Name: C:\Downloaded Web Sites\b\259.html
+Content Type: text/html
+
+Uri: http://b/575.html
+File Name: C:\Downloaded Web Sites\b\575.html
+Content Type: text/html
+
+Uri: http://b/576.html
+File Name: C:\Downloaded Web Sites\b\576.html
+Content Type: text/html
+
+Uri: http://b/587.html
+File Name: C:\Downloaded Web Sites\b\587.html
+Content Type: text/html
+
+Uri: http://b/588.html
+File Name: C:\Downloaded Web Sites\b\588.html
+Content Type: text/html
+
+Uri: http://b/605.html
+File Name: C:\Downloaded Web Sites\b\605.html
+Content Type: text/html
+
+Uri: http://b/609.html
+File Name: C:\Downloaded Web Sites\b\609.html
+Content Type: text/html
+
+Uri: http://b/612.html
+File Name: C:\Downloaded Web Sites\b\612.html
+Content Type: text/html
+
+Uri: http://b/641.html
+File Name: C:\Downloaded Web Sites\b\641.html
+Content Type: text/html
+
+Uri: http://b/663.html
+File Name: C:\Downloaded Web Sites\b\663.html
+Content Type: text/html
+
+Uri: http://b/666.html
+File Name: C:\Downloaded Web Sites\b\666.html
+Content Type: text/html
+
+Uri: http://b/668.html
+File Name: C:\Downloaded Web Sites\b\668.html
+Content Type: text/html
+
+Uri: http://b/694.html
+File Name: C:\Downloaded Web Sites\b\694.html
+Content Type: text/html
+
+Uri: http://b/698.html
+File Name: C:\Downloaded Web Sites\b\698.html
+Content Type: text/html
+
+Uri: http://b/705.html
+File Name: C:\Downloaded Web Sites\b\705.html
+Content Type: text/html
+
+Uri: http://b/706.html
+File Name: C:\Downloaded Web Sites\b\706.html
+Content Type: text/html
+
+Uri: http://b/707.html
+File Name: C:\Downloaded Web Sites\b\707.html
+Content Type: text/html
+
+Uri: http://b/712.html
+File Name: C:\Downloaded Web Sites\b\712.html
+Content Type: text/html
+
+Uri: http://b/713.html
+File Name: C:\Downloaded Web Sites\b\713.html
+Content Type: text/html
+
+Uri: http://b/714.html
+File Name: C:\Downloaded Web Sites\b\714.html
+Content Type: text/html
+
+Uri: http://b/715.html
+File Name: C:\Downloaded Web Sites\b\715.html
+Content Type: text/html
+
+Uri: http://b/716.html
+File Name: C:\Downloaded Web Sites\b\716.html
+Content Type: text/html
+
+Uri: http://b/717.html
+File Name: C:\Downloaded Web Sites\b\717.html
+Content Type: text/html
+
+Uri: http://b/718.html
+File Name: C:\Downloaded Web Sites\b\718.html
+Content Type: text/html
+
+Uri: http://b/734.html
+File Name: C:\Downloaded Web Sites\b\734.html
+Content Type: text/html
+
+Uri: http://b/749.html
+File Name: C:\Downloaded Web Sites\b\749.html
+Content Type: text/html
+
+Uri: http://b/761.html
+File Name: C:\Downloaded Web Sites\b\761.html
+Content Type: text/html
+
+Uri: http://b/763.html
+File Name: C:\Downloaded Web Sites\b\763.html
+Content Type: text/html
+
+Uri: http://b/764.html
+File Name: C:\Downloaded Web Sites\b\764.html
+Content Type: text/html
+
+Uri: http://b/775.html
+File Name: C:\Downloaded Web Sites\b\775.html
+Content Type: text/html
+
+Uri: http://b/782.html
+File Name: C:\Downloaded Web Sites\b\782.html
+Content Type: text/html
+
+Uri: http://b/785.html
+File Name: C:\Downloaded Web Sites\b\785.html
+Content Type: text/html
+
+Uri: http://b/806.html
+File Name: C:\Downloaded Web Sites\b\806.html
+Content Type: text/html
+
+Uri: http://b/807.html
+File Name: C:\Downloaded Web Sites\b\807.html
+Content Type: text/html
+
+Uri: http://b/810.html
+File Name: C:\Downloaded Web Sites\b\810.html
+Content Type: text/html
+
+Uri: http://b/822.html
+File Name: C:\Downloaded Web Sites\b\822.html
+Content Type: text/html
+
+Uri: http://b/827.html
+File Name: C:\Downloaded Web Sites\b\827.html
+Content Type: text/html
+
+Uri: http://b/829.html
+File Name: C:\Downloaded Web Sites\b\829.html
+Content Type: text/html
+
+Uri: http://b/833.html
+File Name: C:\Downloaded Web Sites\b\833.html
+Content Type: text/html
+
+Uri: http://b/848.html
+File Name: C:\Downloaded Web Sites\b\848.html
+Content Type: text/html
+
+Uri: http://b/857.html
+File Name: C:\Downloaded Web Sites\b\857.html
+Content Type: text/html
+
+Uri: http://b/860.html
+File Name: C:\Downloaded Web Sites\b\860.html
+Content Type: text/html
+
+Uri: http://b/864.html
+File Name: C:\Downloaded Web Sites\b\864.html
+Content Type: text/html
+
+Uri: http://b/872.html
+File Name: C:\Downloaded Web Sites\b\872.html
+Content Type: text/html
+
+Uri: http://b/880.html
+File Name: C:\Downloaded Web Sites\b\880.html
+Content Type: text/html
+
+Uri: http://b/888.html
+File Name: C:\Downloaded Web Sites\b\888.html
+Content Type: text/html
+
+Uri: http://b/899.html
+File Name: C:\Downloaded Web Sites\b\899.html
+Content Type: text/html
+
+Uri: http://b/939.html
+File Name: C:\Downloaded Web Sites\b\939.html
+Content Type: text/html
+
+Uri: http://b/940.html
+File Name: C:\Downloaded Web Sites\b\940.html
+Content Type: text/html
+
+Uri: http://b/942.html
+File Name: C:\Downloaded Web Sites\b\942.html
+Content Type: text/html
+
+Uri: http://b/943.html
+File Name: C:\Downloaded Web Sites\b\943.html
+Content Type: text/html
+
+Uri: http://b/949.html
+File Name: C:\Downloaded Web Sites\b\949.html
+Content Type: text/html
+
+Uri: http://b/950.html
+File Name: C:\Downloaded Web Sites\b\950.html
+Content Type: text/html
+
+Uri: http://b/951.html
+File Name: C:\Downloaded Web Sites\b\951.html
+Content Type: text/html
+
+Uri: http://b/961.html
+File Name: C:\Downloaded Web Sites\b\961.html
+Content Type: text/html
+
+Uri: http://b/991.html
+File Name: C:\Downloaded Web Sites\b\991.html
+Content Type: text/html
+
+Uri: http://b/994.html
+File Name: C:\Downloaded Web Sites\b\994.html
+Content Type: text/html
+
+Uri: http://b/archives.html
+File Name: C:\Downloaded Web Sites\b\archives.html
+Content Type: text/html
+
+Uri: http://b/assets/file/2020/02/b_211447_1199162307.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\b_211447_1199162307.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2020/02/b_211638_60476675.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\b_211638_60476675.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2020/02/head.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\head.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2020/02/s_211447_1199162307.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\s_211447_1199162307.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/s_211638_60476675.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\s_211638_60476675.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/04/b_193636_1933436824.png
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\04\b_193636_1933436824.png
+Content Type: image/png
+
+Uri: http://b/assets/file/2020/08/林继.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\08\林继.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2020/08/肖兰琴.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\08\肖兰琴.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2020/08/（鸿合）在线知识测试答案.txt
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\08\（鸿合）在线知识测试答案.txt
+Content Type: text/plain
+
+Uri: http://b/assets/file/2020/08/202008021.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\08\202008021.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2020/08/202008025.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\08\202008025.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2020/08/202008029.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\08\202008029.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2020/08/2020080901.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\08\2020080901.jpg.html
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2021/03/lin-xszs1.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\03\lin-xszs1.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2021/03/lin-xszs2.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\03\lin-xszs2.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2021/03/lin-xszs3.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\03\lin-xszs3.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2021/03/lin-xszs4.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\03\lin-xszs4.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2021/03/lin-xszs5.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\03\lin-xszs5.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2021/03/linji.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\03\linji.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2021/03/xiao-xszs1.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\03\xiao-xszs1.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2021/03/xiao-xszs2.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\03\xiao-xszs2.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2021/03/xiao-xszs3.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\03\xiao-xszs3.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2021/03/xiao.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\03\xiao.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2021/06/答案.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\06\答案.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2021/06/2021年公需课/2021062202.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\06\2021年公需课\2021062202.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2021/06/2021年度学法考试考场一.txt
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\06\2021年度学法考试考场一.txt
+Content Type: text/plain
+
+Uri: http://b/assets/file/2021/06/2021061005.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\06\2021061005.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2021/06/2021061901.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\06\2021061901.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2021/06/2021061902.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\06\2021061902.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2021/06/2021061903.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\06\2021061903.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2021/06/2021061904.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\06\2021061904.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2021/06/2021061905.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\06\2021061905.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2021/09/网络研修/6班-林继.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\09\网络研修\6班-林继.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2021/11/202111261.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\11\202111261.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2021/11/202111262.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\11\202111262.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2021/11/202111263.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\11\202111263.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2021/11/202111264.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\11\202111264.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2021/11/202111265.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\11\202111265.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2021/11/202111266.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\11\202111266.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2022/01/2021世行项目/图片/第一阶段/da/36.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2022\01\2021世行项目\图片\第一阶段\da\36.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2022/01/2021世行项目/图片/第三阶段/da/44.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2022\01\2021世行项目\图片\第三阶段\da\44.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2022/01/2021世行项目/图片/第二阶段/da/11.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2022\01\2021世行项目\图片\第二阶段\da\11.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2022/01/2021世行项目/美篇/1.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2022\01\2021世行项目\美篇\1.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2022/01/2021世行项目/美篇/2.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2022\01\2021世行项目\美篇\2.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2022/01/2021世行项目/美篇/3.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2022\01\2021世行项目\美篇\3.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2022/02/2022022202.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2022\02\2022022202.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2022/05/2022052801.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2022\05\2022052801.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2022/05/2022052802.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2022\05\2022052802.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2022/06/2022年度学法考试考场一.html
+File Name: C:\Downloaded Web Sites\b\assets\file\2022\06\2022年度学法考试考场一.html
+Content Type: text/html
+
+Uri: http://b/assets/file/2022/06/2022年度学法考试考场三.html
+File Name: C:\Downloaded Web Sites\b\assets\file\2022\06\2022年度学法考试考场三.html
+Content Type: text/html
+
+Uri: http://b/assets/file/2022/06/2022年度学法考试考场二.html
+File Name: C:\Downloaded Web Sites\b\assets\file\2022\06\2022年度学法考试考场二.html
+Content Type: text/html
+
+Uri: http://b/assets/file/2022/06/20220601.png
+File Name: C:\Downloaded Web Sites\b\assets\file\2022\06\20220601.png.html
+Content Type: image/png
+
+Uri: http://b/assets/file/2022/06/2022060601.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2022\06\2022060601.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2022/08/20220809225452.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2022\08\20220809225452.jpg.html
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2022/09/2022092301.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2022\09\2022092301.jpg.html
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2022/10/2022102501.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2022\10\2022102501.webp.html
+Content Type: image/webp
+
+Uri: http://b/assets/file/2022/11/林继-小学语文专场.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2022\11\林继-小学语文专场.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2022/11/林继-小学道德与法治.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2022\11\林继-小学道德与法治.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2022/11/肖兰琴-小学语文专场.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2022\11\肖兰琴-小学语文专场.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2022/11/肖兰琴-小学道德与法治.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2022\11\肖兰琴-小学道德与法治.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2023/01/希沃学苑能力认证证书/20221014.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2023\01\希沃学苑能力认证证书\20221014.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2023/01/心理健康教育教师培训/20230115.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2023\01\心理健康教育教师培训\20230115.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2023/01/雷州市教研员素养提升培训项目/2023010501.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2023\01\雷州市教研员素养提升培训项目\2023010501.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2023/01/2023年“寒假教师研修”专题/2023010501.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2023\01\2023年“寒假教师研修”专题\2023010501.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2023/02/2023021901.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2023\02\2023021901.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2023/02/2023021902.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2023\02\2023021902.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2023/02/2023022501.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2023\02\2023022501.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2023/02/2023022502.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2023\02\2023022502.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2023/04/2023040701.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2023\04\2023040701.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2023/07/小盒研讨社/湛江市义务教育阶段小初衔接数学教学研讨活动.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2023\07\小盒研讨社\湛江市义务教育阶段小初衔接数学教学研讨活动.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2023/07/20230713005652.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2023\07\20230713005652.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2023/07/20230713011840.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2023\07\20230713011840.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2023/07/20230713029.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2023\07\20230713029.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2023/10/粤教翔云数字教材应用平台/2023111602.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2023\10\粤教翔云数字教材应用平台\2023111602.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2023/10/20231027.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2023\10\20231027.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2023/12/学习证书-林继-《（上午）2023年湛江市小学数学教学质量提升系列活动———教师培训（雷州专场）》-2023-12-21.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2023\12\学习证书-林继-《（上午）2023年湛江市小学数学教学质量提升系列活动———教师培训（雷州专场）》-2023-12-21.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2023/12/学习证书-林继-《（下午）2023年湛江市小学数学教学质量提升系列活动———教师培训（雷州专场）》-2023-12-21.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2023\12\学习证书-林继-《（下午）2023年湛江市小学数学教学质量提升系列活动———教师培训（雷州专场）》-2023-12-21.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2024/01/2024010101.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2024\01\2024010101.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2024/02/2024020101.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2024\02\2024020101.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2024/03/20240307124855.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2024\03\20240307124855.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2024/03/20240310.png
+File Name: C:\Downloaded Web Sites\b\assets\file\2024\03\20240310.png
+Content Type: image/png
+
+Uri: http://b/assets/file/2024/03/20240310215224.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2024\03\20240310215224.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2024/07/2024072003.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2024\07\2024072003.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2024/07/2024072501.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2024\07\2024072501.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2024/08/2024081603.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2024\08\2024081603.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2024/08/2024081701.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2024\08\2024081701.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2024/08/2024082801.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2024\08\2024082801.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2024/08/2024082802.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2024\08\2024082802.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2024/08/2024082803.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2024\08\2024082803.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2024/09/2024090503.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2024\09\2024090503.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2024/12/师德榜样.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2024\12\师德榜样.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2024/12/新时代教师职业行为十项准则解读.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2024\12\新时代教师职业行为十项准则解读.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2024/12/第1张 课程 1 至 课程 7（师范生免试认定改革线上教师教育专题培训课程）_结果.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2024\12\第1张 课程 1 至 课程 7（师范生免试认定改革线上教师教育专题培训课程）_结果.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2024/12/第2张 课程 8（数字素养与技能提升）_结果.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2024\12\第2张 课程 8（数字素养与技能提升）_结果.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2024/12/第3张 课程 39（小学数学“四边形”教学问题解决）_结果.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2024\12\第3张 课程 39（小学数学“四边形”教学问题解决）_结果.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2025/01/2025012701.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2025\01\2025012701.webp
+Content Type: image/webp
+
+Uri: http://b/assets/js/activity-power-mode.min.js
+File Name: C:\Downloaded Web Sites\b\assets\js\activity-power-mode.min.js
+Content Type: application/javascript
+
+Uri: http://b/assets/js/ajax.js
+File Name: C:\Downloaded Web Sites\b\assets\js\ajax.js
+Content Type: application/javascript
+
+Uri: http://b/assets/js/fancybox/fancybox.min.css
+File Name: C:\Downloaded Web Sites\b\assets\js\fancybox\fancybox.min.css
+Content Type: text/css
+
+Uri: http://b/assets/js/fancybox/fancybox.umd.min.js
+File Name: C:\Downloaded Web Sites\b\assets\js\fancybox\fancybox.umd.min.js
+Content Type: application/javascript
+
+Uri: http://b/assets/js/highlightjs/dark.css
+File Name: C:\Downloaded Web Sites\b\assets\js\highlightjs\dark.css
+Content Type: text/css
+
+Uri: http://b/assets/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\b\assets\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://b/assets/js/layer.js
+File Name: C:\Downloaded Web Sites\b\assets\js\layer.js
+Content Type: application/javascript
+
+Uri: http://b/assets/js/readmore.js
+File Name: C:\Downloaded Web Sites\b\assets\js\readmore.js
+Content Type: application/javascript
+
+Uri: http://b/assets/js/translate.js
+File Name: C:\Downloaded Web Sites\b\assets\js\translate.js
+Content Type: application/javascript
+
+Uri: http://b/assets/qblog/fontawesome.min.css
+File Name: C:\Downloaded Web Sites\b\assets\qblog\fontawesome.min.css
+Content Type: text/css
+
+Uri: http://b/assets/qblog/images/公需课.png
+File Name: C:\Downloaded Web Sites\b\assets\qblog\images\公需课.png
+Content Type: image/png
+
+Uri: http://b/assets/qblog/images/iconfont.eot
+File Name: C:\Downloaded Web Sites\b\assets\qblog\images\iconfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://b/assets/qblog/images/iconfont.eot?
+File Name: C:\Downloaded Web Sites\b\assets\qblog\images\iconfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://b/assets/qblog/images/iconfont.svg
+File Name: C:\Downloaded Web Sites\b\assets\qblog\images\iconfont.svg
+Content Type: image/svg+xml
+
+Uri: http://b/assets/qblog/images/iconfont.ttf
+File Name: C:\Downloaded Web Sites\b\assets\qblog\images\iconfont.ttf
+Content Type: application/octet-stream
+
+Uri: http://b/assets/qblog/images/iconfont.woff
+File Name: C:\Downloaded Web Sites\b\assets\qblog\images\iconfont.woff
+Content Type: font/woff
+
+Uri: http://b/assets/qblog/images/up.svg
+File Name: C:\Downloaded Web Sites\b\assets\qblog\images\up.svg
+Content Type: image/svg+xml
+
+Uri: http://b/assets/qblog/layui/font/iconfont.eot?v=282
+File Name: C:\Downloaded Web Sites\b\assets\qblog\layui\font\iconfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://b/assets/qblog/layui/font/iconfont.svg?v=282
+File Name: C:\Downloaded Web Sites\b\assets\qblog\layui\font\iconfont.svg
+Content Type: image/svg+xml
+
+Uri: http://b/assets/qblog/layui/font/iconfont.ttf?v=282
+File Name: C:\Downloaded Web Sites\b\assets\qblog\layui\font\iconfont.ttf
+Content Type: application/octet-stream
+
+Uri: http://b/assets/qblog/layui/font/iconfont.woff2?v=282
+File Name: C:\Downloaded Web Sites\b\assets\qblog\layui\font\iconfont.woff2
+Content Type: font/woff2
+
+Uri: http://b/assets/qblog/layui/font/iconfont.woff?v=282
+File Name: C:\Downloaded Web Sites\b\assets\qblog\layui\font\iconfont.woff
+Content Type: font/woff
+
+Uri: http://b/assets/qblog/layui/layui.js
+File Name: C:\Downloaded Web Sites\b\assets\qblog\layui\layui.js
+Content Type: application/javascript
+
+Uri: http://b/assets/qblog/style.css
+File Name: C:\Downloaded Web Sites\b\assets\qblog\style.css
+Content Type: text/css
+
+Uri: http://b/assets/qblog/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://b/assets/qblog/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://b/assets/qblog/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://b/assets/qblog/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: http://b/assets/qblog/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: http://b/assets/qblog/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: http://b/assets/qblog/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://b/assets/qblog/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://b/assets/qblog/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: http://b/assets/qblog/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: http://b/assets/qblog/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: http://b/assets/qblog/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: http://b/assets/qblog/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://b/assets/qblog/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://b/assets/qblog/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://b/assets/qblog/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: http://b/assets/qblog/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: http://b/assets/qblog/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: http://b/avatar.svg
+File Name: C:\Downloaded Web Sites\b\avatar.svg
+Content Type: image/svg+xml
+
+Uri: http://b/comment-1.html
+File Name: C:\Downloaded Web Sites\b\comment-1.html
+Content Type: text/html
+
+Uri: http://b/comment-2.html
+File Name: C:\Downloaded Web Sites\b\comment-2.html
+Content Type: text/html
+
+Uri: http://b/comment-3.html
+File Name: C:\Downloaded Web Sites\b\comment-3.html
+Content Type: text/html
+
+Uri: http://b/comment-4.html
+File Name: C:\Downloaded Web Sites\b\comment-4.html
+Content Type: text/html
+
+Uri: http://b/comment.html
+File Name: C:\Downloaded Web Sites\b\comment.html
+Content Type: text/html
+
+Uri: http://b/favicon.ico
+File Name: C:\Downloaded Web Sites\b\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://b/images/logo.webp
+File Name: C:\Downloaded Web Sites\b\images\logo.webp
+Content Type: image/webp
+
+Uri: http://b/index-1.html
+File Name: C:\Downloaded Web Sites\b\index-1.html
+Content Type: text/html
+
+Uri: http://b/index-2.html
+File Name: C:\Downloaded Web Sites\b\index-2.html
+Content Type: text/html
+
+Uri: http://b/index-3.html
+File Name: C:\Downloaded Web Sites\b\index-3.html
+Content Type: text/html
+
+Uri: http://b/index-4.html
+File Name: C:\Downloaded Web Sites\b\index-4.html
+Content Type: text/html
+
+Uri: http://b/index-5.html
+File Name: C:\Downloaded Web Sites\b\index-5.html
+Content Type: text/html
+
+Uri: http://b/index-6.html
+File Name: C:\Downloaded Web Sites\b\index-6.html
+Content Type: text/html
+
+Uri: http://b/index.html
+File Name: C:\Downloaded Web Sites\b\index.html
+Content Type: text/html
+
+Uri: http://b/index.php?act=target&s=http:%2F%2Fblog.mboker.cn
+File Name: C:\Downloaded Web Sites\b\index.php-3.html
+Content Type: text/html
+
+Uri: http://b/index.php?act=target&s=http:%2F%2Fwww.snbk.cn%2F
+File Name: C:\Downloaded Web Sites\b\index.php-1.html
+Content Type: text/html
+
+Uri: http://b/index.php?act=target&s=https:%2F%2Flinji.cn
+File Name: C:\Downloaded Web Sites\b\index.php.html
+Content Type: text/html
+
+Uri: http://b/index.php?act=target&s=https:%2F%2Fwww.crant.cn
+File Name: C:\Downloaded Web Sites\b\index.php-2.html
+Content Type: text/html
+
+Uri: http://b/list-1.html
+File Name: C:\Downloaded Web Sites\b\list-1.html
+Content Type: text/html
+
+Uri: http://b/list-2-1.html
+File Name: C:\Downloaded Web Sites\b\list-2-1.html
+Content Type: text/html
+
+Uri: http://b/list-2-2.html
+File Name: C:\Downloaded Web Sites\b\list-2-2.html
+Content Type: text/html
+
+Uri: http://b/list-2-3.html
+File Name: C:\Downloaded Web Sites\b\list-2-3.html
+Content Type: text/html
+
+Uri: http://b/list-2-4.html
+File Name: C:\Downloaded Web Sites\b\list-2-4.html
+Content Type: text/html
+
+Uri: http://b/list-2-5.html
+File Name: C:\Downloaded Web Sites\b\list-2-5.html
+Content Type: text/html
+
+Uri: http://b/list-2-6.html
+File Name: C:\Downloaded Web Sites\b\list-2-6.html
+Content Type: text/html
+
+Uri: http://b/list-2.html
+File Name: C:\Downloaded Web Sites\b\list-2.html
+Content Type: text/html
+
+Uri: http://b/pdf/build/pdf.js
+File Name: C:\Downloaded Web Sites\b\pdf\build\pdf.js
+Content Type: application/javascript
+
+Uri: http://b/pdf/web/compatibility.js
+File Name: C:\Downloaded Web Sites\b\pdf\web\compatibility.js
+Content Type: application/javascript
+
+Uri: http://b/pdf/web/debugger.js
+File Name: C:\Downloaded Web Sites\b\pdf\web\debugger.js
+Content Type: application/javascript
+
+Uri: http://b/pdf/web/images/findbarButton-next-rtl.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\findbarButton-next-rtl.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/findbarButton-next-rtl@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\findbarButton-next-rtl@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/findbarButton-next.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\findbarButton-next.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/findbarButton-next@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\findbarButton-next@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/findbarButton-previous-rtl.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\findbarButton-previous-rtl.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/findbarButton-previous-rtl@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\findbarButton-previous-rtl@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/findbarButton-previous.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\findbarButton-previous.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/findbarButton-previous@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\findbarButton-previous@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/grab.cur
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\grab.cur
+Content Type: application/octet-stream
+
+Uri: http://b/pdf/web/images/grabbing.cur
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\grabbing.cur
+Content Type: application/octet-stream
+
+Uri: http://b/pdf/web/images/loading-icon.gif
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\loading-icon.gif
+Content Type: image/gif
+
+Uri: http://b/pdf/web/images/loading-small.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\loading-small.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/loading-small@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\loading-small@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-documentProperties.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-documentProperties.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-documentProperties@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-documentProperties@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-firstPage.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-firstPage.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-firstPage@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-firstPage@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-handTool.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-handTool.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-handTool@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-handTool@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-lastPage.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-lastPage.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-lastPage@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-lastPage@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-rotateCcw.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-rotateCcw.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-rotateCcw@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-rotateCcw@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-rotateCw.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-rotateCw.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-rotateCw@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-rotateCw@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/shadow.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\shadow.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/texture.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\texture.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-bookmark.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-bookmark.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-bookmark@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-bookmark@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-download.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-download.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-download@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-download@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-menuArrows.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-menuArrows.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-menuArrows@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-menuArrows@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-openFile.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-openFile.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-openFile@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-openFile@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-pageDown-rtl.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-pageDown-rtl.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-pageDown-rtl@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-pageDown-rtl@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-pageDown.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-pageDown.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-pageDown@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-pageDown@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-pageUp-rtl.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-pageUp-rtl.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-pageUp-rtl@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-pageUp-rtl@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-pageUp.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-pageUp.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-pageUp@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-pageUp@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-presentationMode.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-presentationMode.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-presentationMode@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-presentationMode@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-print.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-print.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-print@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-print@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-search.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-search.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-search@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-search@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-secondaryToolbarToggle-rtl.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-secondaryToolbarToggle-rtl.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-secondaryToolbarToggle-rtl@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-secondaryToolbarToggle-rtl@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-secondaryToolbarToggle.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-secondaryToolbarToggle.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-secondaryToolbarToggle@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-secondaryToolbarToggle@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-sidebarToggle-rtl.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-sidebarToggle-rtl.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-sidebarToggle-rtl@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-sidebarToggle-rtl@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-sidebarToggle.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-sidebarToggle.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-sidebarToggle@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-sidebarToggle@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-viewAttachments.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-viewAttachments.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-viewAttachments@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-viewAttachments@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-viewOutline-rtl.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-viewOutline-rtl.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-viewOutline-rtl@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-viewOutline-rtl@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-viewOutline.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-viewOutline.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-viewOutline@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-viewOutline@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-viewThumbnail.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-viewThumbnail.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-viewThumbnail@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-viewThumbnail@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-zoomIn.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-zoomIn.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-zoomIn@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-zoomIn@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-zoomOut.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-zoomOut.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-zoomOut@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-zoomOut@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/l10n.js
+File Name: C:\Downloaded Web Sites\b\pdf\web\l10n.js
+Content Type: application/javascript
+
+Uri: http://b/pdf/web/locale/locale.properties
+File Name: C:\Downloaded Web Sites\b\pdf\web\locale\locale.properties
+Content Type: application/octet-stream
+
+Uri: http://b/pdf/web/viewer.css
+File Name: C:\Downloaded Web Sites\b\pdf\web\viewer.css
+Content Type: text/css
+
+Uri: http://b/pdf/web/viewer.html?file=/assets/file/2021/03/北师大版小学数学教材下册网络培训会的通知.pdf
+File Name: C:\Downloaded Web Sites\b\pdf\web\viewer-7.html
+Content Type: text/html
+
+Uri: http://b/pdf/web/viewer.html?file=/assets/file/2023/12/基于核心素养的小学数学课堂教学改进.pdf
+File Name: C:\Downloaded Web Sites\b\pdf\web\viewer-9.html
+Content Type: text/html
+
+Uri: http://b/pdf/web/viewer.html?file=/assets/file/2023/12/杨家镇中心小学数学教师培训名单.pdf
+File Name: C:\Downloaded Web Sites\b\pdf\web\viewer-10.html
+Content Type: text/html
+
+Uri: http://b/pdf/web/viewer.html?file=/assets/file/2024/12/雷州市杨家镇倜上小学-209号-林继（（教师师德专题研修学时凭证及学习心得提交模版））.pdf
+File Name: C:\Downloaded Web Sites\b\pdf\web\viewer.html
+Content Type: text/html
+
+Uri: http://b/pdf/web/viewer.html?file=/assets/file/2024/12/雷州市杨家镇倜上小学-209号-林继.pdf
+File Name: C:\Downloaded Web Sites\b\pdf\web\viewer-3.html
+Content Type: text/html
+
+Uri: http://b/pdf/web/viewer.html?file=/file/文件收集/附件2：2024年雷州市中小学（幼儿园、特殊教育学校）教师网络研修信息汇总表.pdf
+File Name: C:\Downloaded Web Sites\b\pdf\web\viewer-4.html
+Content Type: text/html
+
+Uri: http://b/pdf/web/viewer.html?file=/file/文件收集/2024年雷州市中小学（幼儿园、特殊教育学校）教师网络研修项目网络研修指南.pdf
+File Name: C:\Downloaded Web Sites\b\pdf\web\viewer-2.html
+Content Type: text/html
+
+Uri: http://b/pdf/web/viewer.html?file=/file/文件收集/2024年雷州市中小学（幼儿园、特殊教育学校）教师网络研修项目网络研修通知.pdf
+File Name: C:\Downloaded Web Sites\b\pdf\web\viewer-1.html
+Content Type: text/html
+
+Uri: http://b/pdf/web/viewer.js
+File Name: C:\Downloaded Web Sites\b\pdf\web\viewer.js
+Content Type: application/javascript
+
+Uri: https://api.dujin.org/bing/1920.php
+File Name: C:\Downloaded Web Sites\b\bing\1920.php
+Content Type: image/jpeg
+
+Uri: https://linji.cn/assets/js/fancybox/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites\b\assets\js\fancybox\jquery.fancybox.min.css
+Content Type: text/css
+
+Uri: https://linji.cn/assets/js/fancybox/jquery.fancybox.min.js
+File Name: C:\Downloaded Web Sites\b\assets\js\fancybox\jquery.fancybox.min.js
+Content Type: application/javascript
+
+Uri: https://linji.cn/assets/qblog/images/公需课.png
+File Name: C:\Downloaded Web Sites\b\assets\qblog\images\公需课-1.png
+Content Type: image/png
+
