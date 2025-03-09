@@ -53,7 +53,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
 <!--默认使用极速内核：针对国内浏览器产商-->
 <meta name="renderer" content="webkit">
-<title>继续教育_第2页_&nbsp;|&nbsp;老林笔记</title>
+<title>继续教育&nbsp;|&nbsp;老林笔记</title>
 <meta name="keywords" content="林继,小学,数学,语文,继续教育,公需课,专业课,选修课" />
 <meta name="description" content="本人是一位农村教师，2001年从韶关学院毕业，一直在本村教书。在教书的同时，一直在自学计算机技术，略有所成，在镇里经常帮助教办处理各类事务，给老师们代学各类学时培训。在广东范围内，需要代学的同行们可以找我。微信：15816122881" />
 <link href="/assets/qblog/style.css" rel="stylesheet" type="text/css" />
@@ -344,121 +344,281 @@ document.body.addEventListener('input', POWERMODE);
 <div id="wrap">   <div id="content">
     <div id="main">
 	<div class="class"><i class="fa fa-folder-open"></i><span style="padding-left: 10px;">继续教育</span><span style="padding-left: 10px;">共 59 篇</span></div>	    	 
-      <div id="log-940" class="post_list">
-	  <a href="/b2/940.html"><h2 style="border-bottom: 1px dashed #e0e0e0;line-height: 1.5em;font-weight: bold;font-size: 20px;">2024广东省国家工作人员学法考试</h2></a>      <div class="excerpt">
-	  	  <div class="textPost" data-url="/b2/940.html"><center"><div style="height: 260px;overflow: hidden;"><img src="/assets/file/2024/07/2024072501.webp" style="max-width:100%;"></div></center></div>	  
+      <div id="log-587" class="post_list">
+	  <a href="/b2/587.html"><h2 style="border-bottom: 1px dashed #e0e0e0;line-height: 1.5em;font-weight: bold;font-size: 20px;">2024年广东公需课学习指引及答案</h2></a>      <div class="excerpt">
+	  	  <div class="textPost" data-url="/b2/587.html"><center>
+<!-- 学时显示开始 -->
+<div class="xueshi" style="text-align: center;font-size: 26px;font-weight: 600;width: 124%;margin-left: -12%;padding: 0px 0px 10px;background-color: #FFF;overflow: hidden;">
+
+			<div class="dataBl" style="display: inline-block;text-align: center;width: 28%;border-right: 1px solid rgba(0, 0, 0, 0.15);" title="">
+                            <strong style="font-size: 26px;font-weight: 600;color: #ff7505;" title="">
+
+			    <span class="unget" title="">0</span></strong><strong style="font-size: 26px;font-weight: 600;" title="">/42</strong>
+
+                            <p style="font: 22px Helvetica Neue,Helvetica,PingFang SC,Tahoma,Arial,sans-serif;text-indent: 0px;text-align: center;" title="">专业课</p>
+                        </div>
+			
+                        <div class="dataBl" style="display: inline-block;width: 28%;border-right: 1px solid rgba(0, 0, 0, 0.15);padding-bottom: 10px;" title="">
+                            <strong style="font-size: 26px;font-weight: 600;color: #ff7505;" title="">
+
+			    <span class="unget" title="">0</span></strong><strong style="font-size: 26px;font-weight: 600;" title="">/30</strong>
+
+                            <p style="font: 22px Helvetica Neue,Helvetica,PingFang SC,Tahoma,Arial,sans-serif;text-indent: 0px;text-align: center;" title="">公需课</p>
+                        </div>
+			
+                        <div class="dataBl" style="display: inline-block;text-align: center;width: 28%;" title="">
+                            <strong style="font-size: 26px;font-weight: 600;color: #ff7505;" title="">
+
+			    <span class="unget" title="">0</span></strong><strong style="font-size: 26px;font-weight: 600;" title="">/18</strong>
+
+                            <p style="font: 22px Helvetica Neue,Helvetica,PingFang SC,Tahoma,Arial,sans-serif;text-indent: 0px;text-align: center;" title="">选修课</p>
+                        </div>
+<!-- 学时显示结束 -->
+
+<!-- 距离 63 岁 -->
+<div id="life100" style="text-align: center;font-size: 14px;"></div>
+        <script language="javascript">
+            startclock2()
+            var timerID = null;
+            var timerRunning = false;
+
+            // 判断是否为闰年的函数
+            function isLeapYear(year) {
+                return (year % 4 === 0 && year % 100!== 0) || year % 400 === 0;
+            }
+
+            function showtime4() {
+                // 获取当前时间并转换为东八区时间（北京时间）
+                var offset = new Date().getTimezoneOffset();
+                var now = new Date(Date.now() + offset * 60 * 1000 + 8 * 60 * 60 * 1000);
+                var NowHour = now.getHours();
+                var NowMinute = now.getMinutes();
+                var NowMonth = now.getMonth();
+                var NowDate = now.getDate();
+                var NowYear = now.getFullYear();
+                var NowSecond = now.getSeconds();
+
+                var targetYear = 2042;
+                var targetMonth = 9;
+                var targetDate = 8;
+
+                var Yearleft = targetYear - NowYear;
+                var Monthleft = targetMonth - NowMonth - 1;
+                var Dateleft = targetDate - NowDate;
+
+                // 处理时间差值计算，考虑各种边界情况以及闰年
+                if (Dateleft < 0) {
+                    Monthleft--;
+                    if (NowMonth === 1) {
+                        // 处理2月情况，区分闰年和平年
+                        if (isLeapYear(NowYear)) {
+                            Dateleft += 29;
+                        } else {
+                            Dateleft += 28;
+                        }
+                    } else {
+                        var monthDays = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
+                        Dateleft += monthDays[NowMonth];
+                    }
+                }
+
+                if (Monthleft < 0) {
+                    Monthleft += 12;
+                    Yearleft--;
+                }
+
+                var Hourleft = 24 - NowHour;
+                var Minuteleft = 0 - NowMinute;
+                var Secondleft = 0 - NowSecond;
+
+                if (Secondleft < 0) {
+                    Secondleft = 60 + Secondleft;
+                    Minuteleft = Minuteleft - 1;
+                }
+                if (Minuteleft < 0) {
+                    Minuteleft = 60 + Minuteleft;
+                    Hourleft = Hourleft - 1;
+                }
+                if (Hourleft < 0) {
+                    Hourleft = 24 + Hourleft;
+                    Dateleft = Dateleft - 1;
+                    if (Dateleft < 0) {
+                        Dateleft += 31;
+                        Monthleft = Monthleft - 1;
+                        if (Monthleft < 0) {
+                            Monthleft += 12;
+                            Yearleft = Yearleft - 1;
+                        }
+                    }
+                }
+
+                var cc = document.getElementById('life100');
+                cc.innerHTML = '离 63 岁还有:'+Yearleft+'年 - '+Monthleft+'月 - '+Dateleft+'天 - '+Hourleft+'时 - '+Minuteleft+'分 - '+Secondleft+'秒' ; 
+                timerID = setTimeout("showtime4()", 1000);
+                timerRunning = true;
+            }
+
+            var timerID = null;
+            var timerRunning = false;
+
+            function stopclock2() {
+                if (timerRunning)
+                    clearTimeout(timerID);
+                timerRunning = false;
+            }
+
+            function startclock2() {
+                stopclock2();
+                showtime4();
+            }
+            // -->
+        </script>
+        <!-- 距离 63 岁 -->
+</div>
+</center>
+
+<center><img src="/assets/file/2024/01/2024010101.webp" width="100%" height="auto"></center>
+
+ <!-- 文章标题切换 -->
+<script>
+var items = document.querySelectorAll('#log-587 a');
+items[0].innerHTML = '<center><strong class="ttst" style="text-align: center;font-size: 26px;font-weight: 600;width: 100%;background-color: #FFF;overflow: hidden;padding: 0px 0px 20px;">2025年度继教学时<br></strong></center><h2  class="ttst1" style="border-bottom: 1px dashed #e0e0e0;line-height: 1.5em;font-weight: bold;font-size: 20px;">2024年广东公需课学习指引及答案</h2>';
+</script>
+<style type="text/css">
+@media screen and (min-width: 950px) and (max-width:99999px) {
+.ttst {
+    display: none;
+}
+.ttst1 {
+    display: block;
+}
+}
+@media screen and (max-width:950px){
+.ttst1 {
+    display: none;
+}
+.ttst {
+    display: block;
+}
+}
+</style>
+ <!-- 文章标题切换 --></div>	  
 	  </div>	
 	  <div class="meta">
-	  <p class="time">2024-07-25 通过网页 
-	  	  	  	  </p>
-      <p class="navPost"><i class="iconfont icon-view"></i> 浏览(875) <a href="/b2/940.html#comments"><i class="iconfont icon-com"></i> 评论(0)</a> 
+	  <p class="time">2020-04-18 通过网页 
+	  <span class="ico">顶</span>	  	  	  </p>
+      <p class="navPost"><i class="iconfont icon-view"></i> 浏览(6816621) <a href="/b2/587.html#comments"><i class="iconfont icon-com"></i> 评论(10)</a> 
 	 
 	</p></div></div> 
 	 
-      <div id="log-939" class="post_list">
-	  <a href="/b2/939.html"><h2 style="border-bottom: 1px dashed #e0e0e0;line-height: 1.5em;font-weight: bold;font-size: 20px;">2024年暑假教师研修</h2></a>      <div class="excerpt">
-	  	  <div class="textPost" data-url="/b2/939.html"><img src="/assets/file/2024/07/2024072003.webp" style="max-width:100%;"></a></div>	  
+      <div id="log-1050" class="post_list">
+	  <a href="/b2/1050.html"><h2 style="border-bottom: 1px dashed #e0e0e0;line-height: 1.5em;font-weight: bold;font-size: 20px;">2025年寒假教师研修（专业课6学时）</h2></a>      <div class="excerpt">
+	  	  <div class="textPost" data-url="/b2/1050.html"><img src="/assets/file/2025/01/2025012701.webp" style="max-width:100%;"></div>	  
 	  </div>	
 	  <div class="meta">
-	  <p class="time">2024-07-21 通过网页 
+	  <p class="time">2025-01-25 通过网页 
 	  	  	  	  </p>
-      <p class="navPost"><i class="iconfont icon-view"></i> 浏览(856) <a href="/b2/939.html#comments"><i class="iconfont icon-com"></i> 评论(0)</a> 
+      <p class="navPost"><i class="iconfont icon-view"></i> 浏览(424) <a href="/b2/1050.html#comments"><i class="iconfont icon-com"></i> 评论(0)</a> 
 	 
 	</p></div></div> 
 	 
-      <div id="log-899" class="post_list">
-	  <a href="/b2/899.html"><h2 style="border-bottom: 1px dashed #e0e0e0;line-height: 1.5em;font-weight: bold;font-size: 20px;">2024年寒假教师研修</h2></a>      <div class="excerpt">
-	  	  <div class="textPost" data-url="/b2/899.html"><img src="/assets/file/2024/02/2024020101.webp" style="max-width:100%;"></a></div>	  
-	  </div>	
-	  <div class="meta">
-	  <p class="time">2024-02-01 通过网页 
-	  	  	  	  </p>
-      <p class="navPost"><i class="iconfont icon-view"></i> 浏览(948) <a href="/b2/899.html#comments"><i class="iconfont icon-com"></i> 评论(0)</a> 
-	 
-	</p></div></div> 
-	 
-      <div id="log-888" class="post_list">
-	  <a href="/b2/888.html"><h2 style="border-bottom: 1px dashed #e0e0e0;line-height: 1.5em;font-weight: bold;font-size: 20px;">2023雷州小学及学前教师职务培训</h2></a>      <div class="excerpt">
-	  	  <div class="textPost" data-url="/b2/888.html"><div style="height: auto;overflow: hidden;"><center><img src="/assets/file/2024/03/20240310215224.webp" width="100%" height="auto"></center></div></div>	  
-	  </div>	
-	  <div class="meta">
-	  <p class="time">2024-01-10 通过网页 
-	  	  	  	  </p>
-      <p class="navPost"><i class="iconfont icon-view"></i> 浏览(565) <a href="/b2/888.html#comments"><i class="iconfont icon-com"></i> 评论(0)</a> 
-	 
-	</p></div></div> 
-	 
-      <div id="log-880" class="post_list">
-	        <div class="excerpt">
-	  	  <div class="textPost" data-url="/b2/880.html"><p>【通知】各中心小学、市直小学、相关学校：湛江市小学数学教学质量提升系列活动一一教师培训的项目，培训时间：2023年12月20日（8：50分开始，时间一天。），培训地点：雷州市第一中学（高中部）报告厅。</p>
-<p>（驱车前来的参训老师，可以把车停在地下停车场。）</p>
+      <div id="log-994" class="post_list">
+	  <a href="/b2/994.html"><h2 style="border-bottom: 1px dashed #e0e0e0;line-height: 1.5em;font-weight: bold;font-size: 20px;">2024教师师德专题研修（16学时）</h2></a>      <div class="excerpt">
+	  	  <div class="textPost" data-url="/b2/994.html"><p style="text-indent: 0px;">各中学、中心小学、市直校（园）：</p>
+<p>本次师德专题研修对象主要是今年未参加寒暑期研修（没有获得16专业课学时）的教师。请各校务必告知相关教师，每年都要按上级通知依时参加相关项目研修学习，否则年度学时不达标，后果自负。</p>
 <p style="text-align: right;">雷州市教师发展中心<br>
-2023年12月11日</p></div>	  
+2024年12月12日</p></div>	  
 	  </div>	
 	  <div class="meta">
-	  <p class="time">2023-12-20 通过网页 
+	  <p class="time">2024-12-12 通过网页 
 	  	  	  	  </p>
-      <p class="navPost"><i class="iconfont icon-view"></i> 浏览(658) <a href="/b2/880.html#comments"><i class="iconfont icon-com"></i> 评论(0)</a> 
+      <p class="navPost"><i class="iconfont icon-view"></i> 浏览(560) <a href="/b2/994.html#comments"><i class="iconfont icon-com"></i> 评论(0)</a> 
 	 
 	</p></div></div> 
 	 
-      <div id="log-872" class="post_list">
-	  <a href="/b2/872.html"><h2 style="border-bottom: 1px dashed #e0e0e0;line-height: 1.5em;font-weight: bold;font-size: 20px;">第十五届小学数学优质课观摩研讨活动 (8学时)</h2></a>      <div class="excerpt">
-	  	  <div class="textPost" data-url="/b2/872.html"><img src="/assets/file/2023/10/20231027.webp" style="max-width:100%;"></div>	  
+      <div id="log-991" class="post_list">
+	  <a href="/b2/991.html"><h2 style="border-bottom: 1px dashed #e0e0e0;line-height: 1.5em;font-weight: bold;font-size: 20px;">2024年网络研修（44学时）</h2></a>      <div class="excerpt">
+	  	  <div class="textPost" data-url="/b2/991.html"><p>各学校：为了确保各位老师2024年继续教育学时达标（公需课30+寒假研修6+暑假研修10+本次网络研修44），请各位老师12月30日前完成教师网络培训。</p>
+<p>1.教师个人登陆国家中小学智慧教育平台(https://basic.smartedu.cn/)，或者手机登陆智慧中小学（同寒暑假研修平台），按研修指南完成44学时，每位参训教师完成后需将学习记录佐证材料 （3张截图）及1份学习心得放在同一个文件夹，文件夹命名为“学校＋序号＋教师姓名”，序号要与附件2汇总表中的序号保持一致。</p>
+<p>2.各学校（中心小以科组为单位）按要求收集教师材料并核验后上传汇总；</p>
+<p>3.还未完成公需课的老师请抓紧时间学习，以免忘记；</p>
+<p>4.所有培训请及时完成，逾期不再提供补学机会。</p>
+<p>5.继续教育学时不达标的教师资格证不能定期注册，各老师务必重视，望知照。</p></div>	  
 	  </div>	
 	  <div class="meta">
-	  <p class="time">2023-10-27 通过网页 
+	  <p class="time">2024-11-25 通过手机 
 	  	  	  	  </p>
-      <p class="navPost"><i class="iconfont icon-view"></i> 浏览(634) <a href="/b2/872.html#comments"><i class="iconfont icon-com"></i> 评论(0)</a> 
+      <p class="navPost"><i class="iconfont icon-view"></i> 浏览(463) <a href="/b2/991.html#comments"><i class="iconfont icon-com"></i> 评论(0)</a> 
 	 
 	</p></div></div> 
 	 
-      <div id="log-864" class="post_list">
-	  <a href="/b2/864.html"><h2 style="border-bottom: 1px dashed #e0e0e0;line-height: 1.5em;font-weight: bold;font-size: 20px;">关于开展2023年雷州市小学教师全员轮训的通知</h2></a>      <div class="excerpt">
-	  	  <div class="textPost" data-url="/b2/864.html">遵循过程考评与总结考评相结合原则，学员考核总成绩=过程性评价（60 分）+总结性评价（40 分），70 分合格（合格才能录入学时）。<br>
-<img src="/assets/file/2023/07/20230713029.webp" style="max-width:100%;"></div>	  
+      <div id="log-961" class="post_list">
+	  <a href="/b2/961.html"><h2 style="border-bottom: 1px dashed #e0e0e0;line-height: 1.5em;font-weight: bold;font-size: 20px;">2024年广东心理健康教育课程</h2></a>      <div class="excerpt">
+	  	  <div class="textPost" data-url="/b2/961.html"><center><img src="/assets/file/2024/09/2024090503.webp" width="100%" height="auto"></center></div>	  
 	  </div>	
 	  <div class="meta">
-	  <p class="time">2023-07-13 通过网页 
+	  <p class="time">2024-09-05 通过网页 
 	  	  	  	  </p>
-      <p class="navPost"><i class="iconfont icon-view"></i> 浏览(1056) <a href="/b2/864.html#comments"><i class="iconfont icon-com"></i> 评论(0)</a> 
+      <p class="navPost"><i class="iconfont icon-view"></i> 浏览(751) <a href="/b2/961.html#comments"><i class="iconfont icon-com"></i> 评论(0)</a> 
 	 
 	</p></div></div> 
 	 
-      <div id="log-860" class="post_list">
-	  <a href="/b2/860.html"><h2 style="border-bottom: 1px dashed #e0e0e0;line-height: 1.5em;font-weight: bold;font-size: 20px;">2023年“暑期教师研修”专题</h2></a>      <div class="excerpt">
-	  	  <div class="textPost" data-url="/b2/860.html"><center><img src="/assets/file/2023/07/20230713005652.webp" style="max-width:100%;"></center></div>	  
+      <div id="log-951" class="post_list">
+	  <a href="/b2/951.html"><h2 style="border-bottom: 1px dashed #e0e0e0;line-height: 1.5em;font-weight: bold;font-size: 20px;">广东省小学数学教材分析活动</h2></a>      <div class="excerpt">
+	  	  <div class="textPost" data-url="/b2/951.html"><img src="/assets/file/2024/08/2024082802.webp" style="max-width:100%;"></a></div>	  
 	  </div>	
 	  <div class="meta">
-	  <p class="time">2023-06-06 通过网页 
+	  <p class="time">2024-08-28 通过网页 
 	  	  	  	  </p>
-      <p class="navPost"><i class="iconfont icon-view"></i> 浏览(1695) <a href="/b2/860.html#comments"><i class="iconfont icon-com"></i> 评论(0)</a> 
+      <p class="navPost"><i class="iconfont icon-view"></i> 浏览(657) <a href="/b2/951.html#comments"><i class="iconfont icon-com"></i> 评论(0)</a> 
 	 
 	</p></div></div> 
 	 
-      <div id="log-857" class="post_list">
-	  <a href="/b2/857.html"><h2 style="border-bottom: 1px dashed #e0e0e0;line-height: 1.5em;font-weight: bold;font-size: 20px;">2023广东省国家工作人员学法考试</h2></a>      <div class="excerpt">
-	  	  <div class="textPost" data-url="/b2/857.html"><center"><img src="/assets/file/2023/07/20230713011840.webp" style="max-width:100%;"></center></div>	  
+      <div id="log-950" class="post_list">
+	  <a href="/b2/950.html"><h2 style="border-bottom: 1px dashed #e0e0e0;line-height: 1.5em;font-weight: bold;font-size: 20px;">2024年国家中小学智慧教育平台应用专项培训</h2></a>      <div class="excerpt">
+	  	  <div class="textPost" data-url="/b2/950.html"><img src="/assets/file/2024/08/2024082803.webp" style="max-width:100%;"></a></div>	  
 	  </div>	
 	  <div class="meta">
-	  <p class="time">2023-05-16 通过网页 
+	  <p class="time">2024-08-28 通过网页 
 	  	  	  	  </p>
-      <p class="navPost"><i class="iconfont icon-view"></i> 浏览(1665) <a href="/b2/857.html#comments"><i class="iconfont icon-com"></i> 评论(0)</a> 
+      <p class="navPost"><i class="iconfont icon-view"></i> 浏览(953) <a href="/b2/950.html#comments"><i class="iconfont icon-com"></i> 评论(0)</a> 
 	 
 	</p></div></div> 
 	 
-      <div id="log-848" class="post_list">
-	        <div class="excerpt">
-	  	  <div class="textPost" data-url="/b2/848.html">@所有人【通知】各中学、中心小学、市直校（园）：2022年公需课学习截止时间为2023年4月30日，以后平台不再提供补学服务！但截至2023年4月2日，全市还有一千多位教师一直没有登录平台参加学习。由于继续教育学时涉及到教师资格证的“五年一审”，请各校务必高度重视此项工作，及时将本通知转发给各位教师，提醒未参加学习的教师登录广东省教师继续教育信息管理平台（https://jsglpt.gdedu.gov.cn/login.jsp）完成学习任务，确保2022年每名教师培训学时不少于90学时（公需课30学时、专业课42学时、选修课18学时）。【雷州市教师发展中心2023.04.02】                          </div>	  
+      <div id="log-949" class="post_list">
+	  <a href="/b2/949.html"><h2 style="border-bottom: 1px dashed #e0e0e0;line-height: 1.5em;font-weight: bold;font-size: 20px;">2024人教云教研：相遇云端 教研同行</h2></a>      <div class="excerpt">
+	  	  <div class="textPost" data-url="/b2/949.html"><img src="/assets/file/2024/08/2024082801.webp" style="max-width:100%;"></div>	  
 	  </div>	
 	  <div class="meta">
-	  <p class="time">2023-04-02 通过网页 
+	  <p class="time">2024-08-28 通过网页 
 	  	  	  	  </p>
-      <p class="navPost"><i class="iconfont icon-view"></i> 浏览(829) <a href="/b2/848.html#comments"><i class="iconfont icon-com"></i> 评论(0)</a> 
+      <p class="navPost"><i class="iconfont icon-view"></i> 浏览(655) <a href="/b2/949.html#comments"><i class="iconfont icon-com"></i> 评论(0)</a> 
+	 
+	</p></div></div> 
+	 
+      <div id="log-943" class="post_list">
+	  <a href="/b2/943.html"><h2 style="border-bottom: 1px dashed #e0e0e0;line-height: 1.5em;font-weight: bold;font-size: 20px;">2024人教版义务教育新教材网络培训</h2></a>      <div class="excerpt">
+	  	  <div class="textPost" data-url="/b2/943.html"><img src="/assets/file/2024/08/2024081701.webp" style="max-width:100%;"></div>	  
+	  </div>	
+	  <div class="meta">
+	  <p class="time">2024-08-17 通过网页 
+	  	  	  	  </p>
+      <p class="navPost"><i class="iconfont icon-view"></i> 浏览(3577) <a href="/b2/943.html#comments"><i class="iconfont icon-com"></i> 评论(0)</a> 
+	 
+	</p></div></div> 
+	 
+      <div id="log-942" class="post_list">
+	  <a href="/b2/942.html"><h2 style="border-bottom: 1px dashed #e0e0e0;line-height: 1.5em;font-weight: bold;font-size: 20px;">2024年中等职业学校思想政治、语文、历史统编教材培训</h2></a>      <div class="excerpt">
+	  	  <div class="textPost" data-url="/b2/942.html"><img src="/assets/file/2024/08/2024081603.webp" style="max-width:100%;"></div>	  
+	  </div>	
+	  <div class="meta">
+	  <p class="time">2024-08-16 通过网页 
+	  	  	  	  </p>
+      <p class="navPost"><i class="iconfont icon-view"></i> 浏览(1022) <a href="/b2/942.html#comments"><i class="iconfont icon-com"></i> 评论(0)</a> 
 	 
 	</p></div></div> 
 	<div class="pagination">
-		<span class="info"> 共计：59 条记录 每页:10条</span><a href='list-2-1.html'>首页</a><a href='list-2-1.html'>&lt;</a><a href='list-2-1.html'>1</a><span class="current">2</span><a href='list-2-3.html'>3</a><a href='list-2-4.html'>4</a><a href='list-2-5.html'>5</a><a href='list-2-3.html'>&gt;</a><a href='list-2-6.html'>尾页</a>	</div>
+		<span class="info"> 共计：59 条记录 每页:10条</span><a href='list-2-1.html'>首页</a><a href='list-2-1.html'>&lt;</a><span class="current">1</span><a href='list-2-2.html'>2</a><a href='list-2-3.html'>3</a><a href='list-2-4.html'>4</a><a href='list-2-5.html'>5</a><a href='list-2-2.html'>&gt;</a><a href='list-2-6.html'>尾页</a>	</div>
     </div> 
 	<div id="sidebar"> 
      <div class="sidebar">
@@ -1056,6 +1216,12 @@ jQuery(document).ready(function($){
         // 遍历所有img元素，为它们设置lazy加载属性
         images.forEach(img => {
             img.setAttribute('loading', 'lazy');
+        });
+    });
+</script></div>
+
+</body>
+</html>ading', 'lazy');
         });
     });
 </script></div>
