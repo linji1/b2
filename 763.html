@@ -61,7 +61,6 @@
 <script type="text/javascript" language="javascript" src="/assets/js/jquery.min.js"></script>
 <link rel="stylesheet" href="/assets/qblog/fontawesome.min.css">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
-<script src="/assets/js/readmore.js" type="text/javascript"></script>
 <!-- fancyBox 5 -->
 <link rel="stylesheet" href="/assets/js/fancybox/fancybox.min.css" media="all" onload="this.media='all'" />
 <script src="/assets/js/fancybox/fancybox.umd.min.js"></script>
@@ -585,38 +584,7 @@ document.body.addEventListener('input', POWERMODE);
   <div class="breadcrumb" style="margin-top: -5px;"><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-home" style="width: 10px;   width: 14px;height: 14px;vertical-align: -2px;
 "><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg><a href="/" style="padding-left: 5px;color: #7d8c8e;">首页</a>
 <span>/</span><a href="/b2/list-2.html" style="color: #7d8c8e;">继续教育</a><span>/</span>正文</div>
-<audio id="audioPlayer" controls preload style="max-width: 50%;opacity: .4;float: right;height: 24px;margin-top: -6px;" title="收听本文" src="https://dict.youdao.com/dictvoice?le=zh&audio=。所有人温馨提示请相关学校校组织教师参加2022年版义务教育课程方案和课程标准培训活动，特别是要督促2022年选修学时未达标18学时的教师全员参与。2022年我市小学阶段不再安排职务培训，小学教师参加2022年暑期教师研修活动10学时及2022年版义务教育课程方案和课程标准培训活8学时两项培训可获得选修课18学时，届时由雷州市教师发展中心在继教平台中为获得学时证明的教师申报专业学时。烦请各校务必要求学时未达标的教师全员参加培训，确保所有教师每年继续教育学时达到90学时以上其中公需课30学时，专业课42学时，选修课18学时，以免影响教师资格证的五年一审。雷州市教师发展中心20220929">
-  您的浏览器不支持 audio 元素。
-</audio>
 <span id="translate" style="border: 0px;cursor: pointer;float: right;color: #7d8c8e;font-size: 12px;margin-top: -5px;"></span>
-
-    <script>
-        const audioPlayer = document.getElementById('audioPlayer');
-        const audioFiles = [
-            'https://dict.youdao.com/dictvoice?le=zh&audio=。所有人温馨提示请相关学校校组织教师参加2022年版义务教育课程方案和课程标准培训活动，特别是要督促2022年选修学时未达标18学时的教师全员参与。2022年我市小学阶段不再安排职务培训，小学教师参加2022年暑期教师研修活动10学时及2022年版义务教育课程方案和课程标准培训活8学时两项培训可获得选修课18学时，届时由雷州市教师发展中心在继教平台中为获得学时证明的教师申报专业学时。烦请各校务必要求学时未达标的教师全员参加培训，确保所有教师每年继续教育学时达到90学时以上其中公需课30学时，专业课42学时，选修课18学时，以免影响教师资格证的五年一审。雷州市教师发展中心20220929',        ];
-        let currentTrack = 0;
-
-        // 点击播放按钮时开始播放
-        function playAudio() {
-            if (currentTrack < audioFiles.length) {
-                audioPlayer.src = audioFiles[currentTrack];
-                audioPlayer.play();
-            } else {
-                audioPlayer.pause();
-            }
-        }
-
-        // 绑定播放按钮的点击事件
-        audioPlayer.addEventListener('click', playAudio);
-
-        // 监听播放结束事件
-        audioPlayer.addEventListener('ended', () => {
-            currentTrack++;
-            if (currentTrack < audioFiles.length) {
-                playAudio(); // 自动播放下一首
-            }
-        });
-    </script>
 
 <style type="text/css">
 	span#translate select {
@@ -634,11 +602,7 @@ document.body.addEventListener('input', POWERMODE);
 <div  id="printview">
 <div class="text">
 @所有人【温馨提示】请相关学校校组织教师参加2022年版义务教育课程方案和课程标准培训活动，特别是要督促2022年选修学时未达标（18学时）的教师全员参与。2022年我市小学阶段不再安排职务培训，小学教师参加“2022年暑期教师研修活动（10学时）”及“2022年版义务教育课程方案和课程标准培训活（8学时）”两项培训可获得选修课18学时，届时由雷州市教师发展中心在继教平台中为获得学时证明的教师申报专业学时。烦请各校务必要求学时未达标的教师全员参加培训，确保所有教师“每年继续教育学时达到90学时以上（其中公需课30学时，专业课42学时，选修课18学时）”，以免影响教师资格证的“五年一审”。【雷州市教师发展中心2022.09.29】</div>
-<div class="readall_box">
-          <div class="read_more_mask"></div>
-          <a class="read_more_btn" target="_self">阅读全文 <i class="fa fa-angle-down" aria-hidden="true" style="font-size: 18px; color: #ca0c16;vertical-align:middle;"></i></a>
-      </div>
-<p class="time clb">继续教育 2022-10-08 22:32:29 通过 网页 <i class="iconfont icon-view"></i> 浏览(1838) <span> <a href="javascript:printme()" target="_self" style="color: #999;"><i class="fa fa-print"></i> 打印</a></span></p>
+<p class="time clb">继续教育 2022-10-08 22:32:29 通过 网页 <i class="iconfont icon-view"></i> 浏览(1958) <span> <a href="javascript:printme()" target="_self" style="color: #999;"><i class="fa fa-print"></i> 打印</a></span></p>
 <p class="navPost">  
 	<a href="JavaScript:history.back();">返回</a>&nbsp; <a href="JavaScript:DotRoll('#formpl')">我要评论</a></p></div></div>  
 <!-- 上一篇 下一篇开始 -->

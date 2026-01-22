@@ -61,7 +61,6 @@
 <script type="text/javascript" language="javascript" src="/assets/js/jquery.min.js"></script>
 <link rel="stylesheet" href="/assets/qblog/fontawesome.min.css">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
-<script src="/assets/js/readmore.js" type="text/javascript"></script>
 <!-- fancyBox 5 -->
 <link rel="stylesheet" href="/assets/js/fancybox/fancybox.min.css" media="all" onload="this.media='all'" />
 <script src="/assets/js/fancybox/fancybox.umd.min.js"></script>
@@ -585,38 +584,7 @@ document.body.addEventListener('input', POWERMODE);
   <div class="breadcrumb" style="margin-top: -5px;"><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-home" style="width: 10px;   width: 14px;height: 14px;vertical-align: -2px;
 "><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg><a href="/" style="padding-left: 5px;color: #7d8c8e;">首页</a>
 <span>/</span><a href="/b2/list-2.html" style="color: #7d8c8e;">继续教育</a><span>/</span>正文</div>
-<audio id="audioPlayer" controls preload style="max-width: 50%;opacity: .4;float: right;height: 24px;margin-top: -6px;" title="收听本文" src="https://dict.youdao.com/dictvoice?le=zh&audio=2023年暑期教师研修专题。中小学职中证书20230606202308312023年暑期研修活动最新通知一，基础教育部分根据省厅最新指示，国家中小学智慧教育平台与我省教师继续教育信息管理平台中的基础教育部分已实现自动认定，待研修活动结束后，会逐步自动认定学时至我省继教系统。二，职业教育部分认定学时仍需自主申报。参照之前的方式，在研修活动结束后由各县市，区教育局负责汇总本地区职业学校教师研修情况，填写2023年湛江市暑期教师研修信息汇总表并录入教师培训学时市直属各职业学校负责汇总本单位教师参与暑期研修情况并填写2023年湛江市暑期教师研修信息汇总表，市直属职业学校教师参与暑期研修获得的学时由湛江">
-  您的浏览器不支持 audio 元素。
-</audio>
 <span id="translate" style="border: 0px;cursor: pointer;float: right;color: #7d8c8e;font-size: 12px;margin-top: -5px;"></span>
-
-    <script>
-        const audioPlayer = document.getElementById('audioPlayer');
-        const audioFiles = [
-            'https://dict.youdao.com/dictvoice?le=zh&audio=2023年暑期教师研修专题。中小学职中证书20230606202308312023年暑期研修活动最新通知一，基础教育部分根据省厅最新指示，国家中小学智慧教育平台与我省教师继续教育信息管理平台中的基础教育部分已实现自动认定，待研修活动结束后，会逐步自动认定学时至我省继教系统。二，职业教育部分认定学时仍需自主申报。参照之前的方式，在研修活动结束后由各县市，区教育局负责汇总本地区职业学校教师研修情况，填写2023年湛江市暑期教师研修信息汇总表并录入教师培训学时市直属各职业学校负责汇总本单位教师参与暑期研修情况并填写2023年湛江市暑期教师研修信息汇总表，市直属职业学校教师参与暑期研修获得的学时由湛江','https://dict.youdao.com/dictvoice?le=zh&audio=市教师发展中心录入。三，请还没有获得结业所需认定学时10个认定学时的教师抓紧时间学习，国家中小学智慧教育平台将于8月31日24点截止计算学时。四，教师身份须通过国家中小学智慧教育平台的学校管理员审核认证，方可获取证书。请未通过审核认证的教师在个人信息中填写正确的任教信息，并请所在学校管理员及时审核，以免影响系统自动认定。基础教育教师研修学员服务电话4008980910职业教育教师研修管理员咨询电话中职潘老师 01069263804 13811089473高职陈老师 01069263804 13810071185学员服务电话4008757650高等教育教师研修管理员咨询电话李老师 电话01069','https://dict.youdao.com/dictvoice?le=zh&audio=228543 15600097821学员服务电话4008757650',        ];
-        let currentTrack = 0;
-
-        // 点击播放按钮时开始播放
-        function playAudio() {
-            if (currentTrack < audioFiles.length) {
-                audioPlayer.src = audioFiles[currentTrack];
-                audioPlayer.play();
-            } else {
-                audioPlayer.pause();
-            }
-        }
-
-        // 绑定播放按钮的点击事件
-        audioPlayer.addEventListener('click', playAudio);
-
-        // 监听播放结束事件
-        audioPlayer.addEventListener('ended', () => {
-            currentTrack++;
-            if (currentTrack < audioFiles.length) {
-                playAudio(); // 自动播放下一首
-            }
-        });
-    </script>
 
 <style type="text/css">
 	span#translate select {
@@ -658,11 +626,7 @@ document.body.addEventListener('input', POWERMODE);
 <p>高等教育教师研修管理员咨询电话：<br></p>
 <p>李老师 电话：010-69228543 15600097821<br></p>
 <p>学员服务电话：4008757650</p></div>
-<div class="readall_box">
-          <div class="read_more_mask"></div>
-          <a class="read_more_btn" target="_self">阅读全文 <i class="fa fa-angle-down" aria-hidden="true" style="font-size: 18px; color: #ca0c16;vertical-align:middle;"></i></a>
-      </div>
-<p class="time clb">继续教育 2023-06-06 12:45:33 通过 网页 <i class="iconfont icon-view"></i> 浏览(2604) <span> <a href="javascript:printme()" target="_self" style="color: #999;"><i class="fa fa-print"></i> 打印</a></span></p>
+<p class="time clb">继续教育 2023-06-06 12:45:33 通过 网页 <i class="iconfont icon-view"></i> 浏览(2731) <span> <a href="javascript:printme()" target="_self" style="color: #999;"><i class="fa fa-print"></i> 打印</a></span></p>
 <p class="navPost">  
 	<a href="JavaScript:history.back();">返回</a>&nbsp; <a href="JavaScript:DotRoll('#formpl')">我要评论</a></p></div></div>  
 <!-- 上一篇 下一篇开始 -->

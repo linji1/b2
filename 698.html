@@ -61,7 +61,6 @@
 <script type="text/javascript" language="javascript" src="/assets/js/jquery.min.js"></script>
 <link rel="stylesheet" href="/assets/qblog/fontawesome.min.css">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
-<script src="/assets/js/readmore.js" type="text/javascript"></script>
 <!-- fancyBox 5 -->
 <link rel="stylesheet" href="/assets/js/fancybox/fancybox.min.css" media="all" onload="this.media='all'" />
 <script src="/assets/js/fancybox/fancybox.umd.min.js"></script>
@@ -585,38 +584,7 @@ document.body.addEventListener('input', POWERMODE);
   <div class="breadcrumb" style="margin-top: -5px;"><svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-home" style="width: 10px;   width: 14px;height: 14px;vertical-align: -2px;
 "><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg><a href="/" style="padding-left: 5px;color: #7d8c8e;">首页</a>
 <span>/</span><a href="/b2/list-2.html" style="color: #7d8c8e;">继续教育</a><span>/</span>正文</div>
-<audio id="audioPlayer" controls preload style="max-width: 50%;opacity: .4;float: right;height: 24px;margin-top: -6px;" title="收听本文" src="https://dict.youdao.com/dictvoice?le=zh&audio=2021年公需课考试答案。代学38元一斤烧鹅，请加微信 DX007建议学习时不要使用工具，免得给平台造成更大压力，影响其他老师完成。纯属自娱自乐，从写这编文章开始到现在，都没有一单生意上门，也许这是信任问题吧广东省教师继续教育信息管理平台公需课学习httpsjsglptgdedugovcn 咨询电话4009989352  帐号与密码说明  致全体教师的一封信  客服  留言广东省卫生健康行业学习平台网址公需课学习httpswww91huayicom咨询电话 02038914613华医网更新于 20210625 2100公需课简单说明2021年度广东公需课学时要求共30学时一年，课程为科技创新现">
-  您的浏览器不支持 audio 元素。
-</audio>
 <span id="translate" style="border: 0px;cursor: pointer;float: right;color: #7d8c8e;font-size: 12px;margin-top: -5px;"></span>
-
-    <script>
-        const audioPlayer = document.getElementById('audioPlayer');
-        const audioFiles = [
-            'https://dict.youdao.com/dictvoice?le=zh&audio=2021年公需课考试答案。代学38元一斤烧鹅，请加微信 DX007建议学习时不要使用工具，免得给平台造成更大压力，影响其他老师完成。纯属自娱自乐，从写这编文章开始到现在，都没有一单生意上门，也许这是信任问题吧广东省教师继续教育信息管理平台公需课学习httpsjsglptgdedugovcn 咨询电话4009989352  帐号与密码说明  致全体教师的一封信  客服  留言广东省卫生健康行业学习平台网址公需课学习httpswww91huayicom咨询电话 02038914613华医网更新于 20210625 2100公需课简单说明2021年度广东公需课学时要求共30学时一年，课程为科技创新现','https://dict.youdao.com/dictvoice?le=zh&audio=状与发展趋势和人工智能发展与产业应用两个专题。在此期间，教师可从两门公需课程中选择其中一门进行学习。教师须完成课程内所有教学活动达到100与试卷考核达到60分以上为通过。若任意一项课程任务未按期完成，则本次公需课学习未通过。公需课学时说明在公需课学习页面完成所选课程的所有章节学习和考核后，所获得公需课课程学时会自动录入本平台并同步到专技网。学时可在个人中心，我的学时以及左侧卡片预览处查看。人工智能发展与产业应用35个视频，1个考核。科技创新现状与发展趋势33个视频，1个考核。视频总长度1217分钟，约 203 小时。比开始少了3时人工智能发展与产业应用考试答案A，A，B，B，B，A，A，B，A','https://dict.youdao.com/dictvoice?le=zh&audio=，A，A，B，C，B，B，B，A，A，D，B，AC，ABD，ABCD，ACD，ACD，AB，ABCD，ABCD，BD，ABC科技创新现状与发展趋势考试答案A，A，B，B，A，A，B，B，B，A，B，A，A，A，C，B，A，A，A，B，ABC，ABCD，BCD，ABC，ABC，ABD，ABC，ABCD，ABC，ABC 下载文件 公需课操作手册2021年版pdf重置密码说明2021版pdf批量重置密码操作指南docx  在线查看更新于 20210720 0145更新于 20210610 1248',        ];
-        let currentTrack = 0;
-
-        // 点击播放按钮时开始播放
-        function playAudio() {
-            if (currentTrack < audioFiles.length) {
-                audioPlayer.src = audioFiles[currentTrack];
-                audioPlayer.play();
-            } else {
-                audioPlayer.pause();
-            }
-        }
-
-        // 绑定播放按钮的点击事件
-        audioPlayer.addEventListener('click', playAudio);
-
-        // 监听播放结束事件
-        audioPlayer.addEventListener('ended', () => {
-            currentTrack++;
-            if (currentTrack < audioFiles.length) {
-                playAudio(); // 自动播放下一首
-            }
-        });
-    </script>
 
 <style type="text/css">
 	span#translate select {
@@ -700,11 +668,7 @@ ABD，ABC，ABCD，ABC，ABC<br><br>
 <center style="display: none;">更新于 2021.06.10 12:48<br>
 
 <a href="/assets2/file/2021/06/2021061005.webp" data-fancybox="gallery" data-caption=""><img src="/assets2/file/2021/06/2021061005.webp" style="width:100%;"></a></center></div>
-<div class="readall_box">
-          <div class="read_more_mask"></div>
-          <a class="read_more_btn" target="_self">阅读全文 <i class="fa fa-angle-down" aria-hidden="true" style="font-size: 18px; color: #ca0c16;vertical-align:middle;"></i></a>
-      </div>
-<p class="time clb">继续教育 2021-07-30 01:46:14 通过 网页 <i class="iconfont icon-view"></i> 浏览(4398) <span> <a href="javascript:printme()" target="_self" style="color: #999;"><i class="fa fa-print"></i> 打印</a></span></p>
+<p class="time clb">继续教育 2021-07-30 01:46:14 通过 网页 <i class="iconfont icon-view"></i> 浏览(4530) <span> <a href="javascript:printme()" target="_self" style="color: #999;"><i class="fa fa-print"></i> 打印</a></span></p>
 <p class="navPost">  
 	<a href="JavaScript:history.back();">返回</a>&nbsp; <a href="JavaScript:DotRoll('#formpl')">我要评论</a></p></div></div>  
 <!-- 上一篇 下一篇开始 -->
