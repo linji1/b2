@@ -583,13 +583,16 @@ document.body.addEventListener('input', POWERMODE);
   <div id="content" style="position: relative;">
     <!-- <head>中添加听读功能样式 -->
 <style>
-  /* 句子高亮样式 */
-.sentence.current {
-  background-color: #fffacd; /* 淡黄色高亮 */
-  border-radius: 3px;
-}
 .sentence {
   cursor: pointer;
+  /* 默认 inline，不破坏排版 */
+}
+.sentence:hover {
+  background-color: #f0f0f0;
+}
+.sentence.current {
+  background-color: #ffeb3b; /* 黄色高亮 */
+  border-radius: 2px;
 }
 </style>
 <!-- 听读控制面板（插入到printview容器前） -->
@@ -634,7 +637,7 @@ document.body.addEventListener('input', POWERMODE);
 <div  id="printview">
 <h1>2020继续教育学习</h1><div class="text">
 <p>【通知一】2020年我省教师公需课学习网站改为“广东省教师继续教育管理信息系统”（网址<a href="https://jspx.gdedu.gov.cn/jspx/" target="_blank">https://jspx.gdedu.gov.cn/jspx/</a>），请各校通知教师及时登录学习（教师个人登录账号：身份证号码；原始密码：身份证号码后六位数字），并确保2020年12月31日前完成学习任务。</p><p>【通知二】《广东省教育厅关于开展2020年教师继续教育专题培训通知》已发布在OA系统，请各校按通知要求认真组织教师参加本次专题培训，按时完成学习任务（心理健康教育和师德师风教育专题培训纳入我省2020教师继续教育专业课必修课程，各4学时）。学习网址同上。</p><p>以上培训学习涉及到教师资格证的“五年一审”工作，各校务必高度重视，认真落实。</p></div>
-</div><p class="time clb">继续教育 2020-07-06 22:57:33 通过 网页 <i class="iconfont icon-view"></i> 浏览(4894) <span> <a href="javascript:printme()" target="_self" style="color: #999;"><i class="fa fa-print"></i> 打印</a></span></p>
+</div><p class="time clb">继续教育 2020-07-06 22:57:33 通过 网页 <i class="iconfont icon-view"></i> 浏览(4896) <span> <a href="javascript:printme()" target="_self" style="color: #999;"><i class="fa fa-print"></i> 打印</a></span></p>
 <p class="navPost">  
 	<a href="JavaScript:history.back();">返回</a>&nbsp; <a href="JavaScript:DotRoll('#formpl')">我要评论</a></p></div>  
 <!-- 上一篇 下一篇开始 -->

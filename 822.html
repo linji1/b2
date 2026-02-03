@@ -583,13 +583,16 @@ document.body.addEventListener('input', POWERMODE);
   <div id="content" style="position: relative;">
     <!-- <head>中添加听读功能样式 -->
 <style>
-  /* 句子高亮样式 */
-.sentence.current {
-  background-color: #fffacd; /* 淡黄色高亮 */
-  border-radius: 3px;
-}
 .sentence {
   cursor: pointer;
+  /* 默认 inline，不破坏排版 */
+}
+.sentence:hover {
+  background-color: #f0f0f0;
+}
+.sentence.current {
+  background-color: #ffeb3b; /* 黄色高亮 */
+  border-radius: 2px;
 }
 </style>
 <!-- 听读控制面板（插入到printview容器前） -->
@@ -634,7 +637,7 @@ document.body.addEventListener('input', POWERMODE);
 <div  id="printview">
 <div class="text">
 【通知】各中学、中心小学、市直校（园）：2022年公需课学习截止时间为2023年4月30日，以后平台不再提供补学服务。但截至2023年2月13日，全市还有1737位教师一直没有登录平台参加学习。由于继续教育学时涉及到教师资格证的“五年一审”，请各校务必高度重视此项工作，及时督促教师（特别是刚在继教平台系统录入个人信息的2021年新入职教师）登录广东省教师继续教育信息管理平台（https://jsglpt.gdedu.gov.cn/login.jsp）完成学习任务，确保2022年每名教师培训学时不少于90学时（公需课30学时、专业课42学时、选修课18学时）。【雷州市教师发展中心2023.02.13】</div>
-</div><p class="time clb">继续教育 2023-02-13 08:52:02 通过 手机 <i class="iconfont icon-view"></i> 浏览(1726) <span> <a href="javascript:printme()" target="_self" style="color: #999;"><i class="fa fa-print"></i> 打印</a></span></p>
+</div><p class="time clb">继续教育 2023-02-13 08:52:02 通过 手机 <i class="iconfont icon-view"></i> 浏览(1727) <span> <a href="javascript:printme()" target="_self" style="color: #999;"><i class="fa fa-print"></i> 打印</a></span></p>
 <p class="navPost">  
 	<a href="JavaScript:history.back();">返回</a>&nbsp; <a href="JavaScript:DotRoll('#formpl')">我要评论</a></p></div>  
 <!-- 上一篇 下一篇开始 -->

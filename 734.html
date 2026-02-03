@@ -583,13 +583,16 @@ document.body.addEventListener('input', POWERMODE);
   <div id="content" style="position: relative;">
     <!-- <head>中添加听读功能样式 -->
 <style>
-  /* 句子高亮样式 */
-.sentence.current {
-  background-color: #fffacd; /* 淡黄色高亮 */
-  border-radius: 3px;
-}
 .sentence {
   cursor: pointer;
+  /* 默认 inline，不破坏排版 */
+}
+.sentence:hover {
+  background-color: #f0f0f0;
+}
+.sentence.current {
+  background-color: #ffeb3b; /* 黄色高亮 */
+  border-radius: 2px;
 }
 </style>
 <!-- 听读控制面板（插入到printview容器前） -->
@@ -756,7 +759,7 @@ A，A，A，A，A，A，A，A，A，A<br><br>
 5、本次考试共设3个考场，学员可任意选择一 个考场进入考试，对考试成绩不满意的学员可进入其他考场再次参考，每人共有3次机会，成绩以高分覆盖低分、取最高分，不再安排补考。<br><br>
 
 6、考试完成后，请及时下载考试成绩存档。</div>
-</div><p class="time clb">继续教育 2022-05-29 17:58:27 通过 手机 <i class="iconfont icon-view"></i> 浏览(5183) <span> <a href="javascript:printme()" target="_self" style="color: #999;"><i class="fa fa-print"></i> 打印</a></span></p>
+</div><p class="time clb">继续教育 2022-05-29 17:58:27 通过 手机 <i class="iconfont icon-view"></i> 浏览(5184) <span> <a href="javascript:printme()" target="_self" style="color: #999;"><i class="fa fa-print"></i> 打印</a></span></p>
 <p class="navPost">  
 	<a href="JavaScript:history.back();">返回</a>&nbsp; <a href="JavaScript:DotRoll('#formpl')">我要评论</a></p></div>  
 <!-- 上一篇 下一篇开始 -->
